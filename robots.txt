@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary files from being crawled
+Disallow: /apps-script.js
+
+# Sitemap location
+Sitemap: https://www.vishaldrivingschool.in/sitemap.xml

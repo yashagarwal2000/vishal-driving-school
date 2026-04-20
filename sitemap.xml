@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Main Landing Page -->
+  <url>
+    <loc>https://www.vishaldrivingschool.in/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <!-- Bilingual page — English default, Hindi alternate -->
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.vishaldrivingschool.in/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://www.vishaldrivingschool.in/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vishaldrivingschool.in/"/>
+  </url>
+
+</urlset>
