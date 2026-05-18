@@ -4,14 +4,14 @@
 
   <!-- Main Landing Page -->
   <url>
-    <loc>https://www.vishaldrivingschool.in/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <loc>https://vishaldrivingschool.in/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <!-- Bilingual page — English default, Hindi alternate -->
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.vishaldrivingschool.in/"/>
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://www.vishaldrivingschool.in/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vishaldrivingschool.in/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://vishaldrivingschool.in/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://vishaldrivingschool.in/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vishaldrivingschool.in/"/>
   </url>
 
 </urlset>

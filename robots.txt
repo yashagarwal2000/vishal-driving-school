@@ -5,4 +5,4 @@ Allow: /
 Disallow: /apps-script.js
 
 # Sitemap location
-Sitemap: https://www.vishaldrivingschool.in/sitemap.xml
+Sitemap: https://vishaldrivingschool.in/sitemap.xml
